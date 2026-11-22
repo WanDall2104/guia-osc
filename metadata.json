@@ -1,0 +1,6 @@
+{
+  "name": "Guia OSC",
+  "description": "Guia prático de regularização, transparência, parcerias, editais e diagnóstico legal para Organizações da Sociedade Civil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
